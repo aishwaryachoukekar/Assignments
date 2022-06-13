@@ -8,3 +8,4 @@ All assignments are completed using Tensorflow framework.
 | ---------------- | ---------- |
 | Gensim_Word2Vec.ipynb | Training a simple word2vec model using gensim and running basic function like finding similar words. Also plotting a TSNE scartter plot of randomly selected 20 words. |
 | Char-RNN-ClassifyOriginName.ipynb | Building a simple character level RNN model to class last name of a person based on 19 different language classes. |
+| Autoencoders.ipynb | Using MNIST dataset to build a simple autoencoders (Stacked, Covolutional, VAE). |
